@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245945224135",
+    "project_id": "inseepro-77eeb",
+    "storage_bucket": "inseepro-77eeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245945224135:android:4acd35b0b4780c687c27e2",
+        "android_client_info": {
+          "package_name": "com.insee.odms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTUtsL1O8S-IYpt4yChjqSdFWA_tgC1zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

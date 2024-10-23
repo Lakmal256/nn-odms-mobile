@@ -1,0 +1,6 @@
+{
+  "ta": [
+    "splash_message_001",
+    "splash_message_002"
+  ]
+}
